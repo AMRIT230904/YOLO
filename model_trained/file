@@ -1,0 +1,18 @@
+⚙️ Methodology
+1. Data preprocessing and annotation conversion
+2. Splitting dataset into train/validation/test
+3. Training YOLO model on DIARETDB1 dataset
+4. Evaluating performance using:
+   - Precision
+   - Recall
+   - F1 Score
+   - mAP (mean Average Precision)
+   - ROC-AUC Curve
+
+
+
+  📊 Dataset Used
+- **Dataset Name:** DIARETDB1
+- **Type:** Retinal Fundus Images
+- **Task:** Hemorrhage Detection
+- **Annotations:** Ground truth lesion markings provided
