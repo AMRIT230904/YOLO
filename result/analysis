@@ -1,0 +1,21 @@
+📊 Results Comparison (50 vs 120 Epochs)
+
+Precision
+50 Epochs: 0.993
+120 Epochs: 0.995 ↑
+
+Recall
+50 Epochs: 1.000
+120 Epochs: 1.000 (=)
+
+F1 Score
+50 Epochs: 0.996
+120 Epochs: 0.997 ↑
+
+mAP@50
+50 Epochs: 0.995
+120 Epochs: 0.997 ↑
+
+ROC-AUC
+50 Epochs: 1.000
+120 Epochs: 1.000 (=)
